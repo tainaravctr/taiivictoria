@@ -16,4 +16,4 @@ Iniciei minha carreira agora como front-end, sou uma Dev Junior, aqui postarei m
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-violet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainara-santos-58a3201bb/)](https://www.linkedin.com/in/tainara-santos-58a3201bb/)
 
- [![Codepen Badge](https://img.shields.io/badge/-Codepen-blue?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/tainara-victoria](https://codepen.io/tainara-victoria))](https://codepen.io/tainara-victoria)
+ [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/tainara-victoria](https://codepen.io/tainara-victoria))](https://codepen.io/tainara-victoria)
