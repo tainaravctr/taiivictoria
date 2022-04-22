@@ -1,5 +1,5 @@
 # Oiee, seja bem vindo (a)!
-Meu nome é Tainara Victória, moro em SP e tenho 17 anos 😄
+Meu nome é Tainara Victória, moro em SP e tenho 18 anos 😄
 
 Iniciei minha carreira agora como front-end, sou uma Dev Junior, aqui postarei meus projetos com aprendizados ao longo da minha carreira!
 
